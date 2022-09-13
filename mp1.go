@@ -24,4 +24,13 @@ func main() {
 		keys = append(keys, key)
 	}
 	fmt.Println(keys)
+	m := make(map[string]int)
+	m["hello"] = 1
+	m["bello"] = 2
+	m["tello"] = 3
+	fmt.Println(m)
+	delete(m, "hello")
+	fmt.Println(m)
+	delete(m, "bello")
+	fmt.Println(m)
 }
