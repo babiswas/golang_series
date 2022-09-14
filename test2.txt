@@ -2,3 +2,4 @@ hello worldhello world
 
 Useful links:
 https://levelup.gitconnected.com/go-concurrency-pattern-semaphore-9587d45f058d
+https://www.callicoder.com/go-command-line-flags-options-exmple/
